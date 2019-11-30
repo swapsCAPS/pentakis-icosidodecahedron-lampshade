@@ -1,0 +1,1 @@
+# pentakis-icosidodecahedron-lampshade
