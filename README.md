@@ -1,8 +1,5 @@
 # pentakis-icosidodecahedron-lampshade
 
-![](https://github.com/swapsCAPS/pentakis-icosidodecahedron-lampshade/blob/master/IMG_20191130_131811.jpg)
-![](https://github.com/swapsCAPS/pentakis-icosidodecahedron-lampshade/blob/master/IMG_20191130_131806.jpg)
-
 ```
 Printed in clear (and dry!) PETG filament. Glued together using hot glue. 
 Clothespins were used to clamp pieces together while waiting for glue to set.
@@ -24,3 +21,6 @@ Hot glue gun
 8 or more clothespins
 1-2 Evenings in cave
 ```
+
+![](https://github.com/swapsCAPS/pentakis-icosidodecahedron-lampshade/blob/master/IMG_20191130_131811.jpg)
+![](https://github.com/swapsCAPS/pentakis-icosidodecahedron-lampshade/blob/master/IMG_20191130_131806.jpg)
